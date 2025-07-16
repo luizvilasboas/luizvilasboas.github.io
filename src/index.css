@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --shadow-brutalist: 4px 4px 0px #000000;
+    --shadow-brutalist-dark: 4px 4px 0px #FFFFFF;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
