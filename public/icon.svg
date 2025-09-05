@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 
+      Este é um ícone SVG para um portfólio de desenvolvedor web com estilo brutalista.
+      Ele exibe as iniciais 'LF'.
+      
+      Você pode personalizar as cores:
+      - fill="#FFD900": Cor de fundo do quadrado (amarelo).
+      - fill="#000000" (no texto): Cor do texto (preto).
+    -->
+
+    <!-- Fundo Quadrado -->
+    <rect width="512" height="512" fill="#FFD900"/>
+
+    <!-- Texto com Iniciais 'LF' -->
+    <text 
+        x="50%" 
+        y="50%" 
+        dominant-baseline="middle" 
+        text-anchor="middle" 
+        font-family="monospace, sans-serif" 
+        font-size="240" 
+        font-weight="bold" 
+        fill="#000000">
+        LF
+    </text>
+</svg>
+
