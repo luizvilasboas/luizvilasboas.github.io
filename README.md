@@ -1,12 +1,70 @@
-# React + Vite
+# luizvilasboas.github.io
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A personal portfolio to showcase my projects, skills, and professional journey, built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is my personal portfolio website, created to serve as a central hub for my work and professional information. It's designed to be clean, fast, and fully responsive. The project was developed using modern web technologies to ensure a great user experience.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The main technologies, frameworks, and libraries used in this project are:
+
+* [React](https://reactjs.org/)
+* [Vite](https://vitejs.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+
+## Usage
+
+Below are the instructions for you to set up and run the project locally.
+
+### Prerequisites
+
+You need to have the following software installed to run this project:
+
+* [Node.js](https://nodejs.org/) (v11 or higher)
+
+### Running the Project
+
+Follow the steps below:
+
+1. **Clone the repository**
+    ```
+    git clone https://github.com/luizvilasboas/luizvilasboas.github.io.git
+    ````
+
+2.  **Navigate to the directory**
+
+    ```
+    cd luizvilasboas.github.io
+    ```
+
+3.  **Install the dependencies**
+
+    ```
+    npm install
+    ```
+
+4.  **Run the application**
+
+    ```
+    npm run dev
+    ```
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star\! Thanks again\!
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
