@@ -4,15 +4,15 @@
 
 ## About the Project
 
-This is my personal portfolio website, created to serve as a central hub for my work and professional information. It's designed to be clean, fast, and fully responsive. The project was developed using modern web technologies to ensure a great user experience.
+This is my personal portfolio website, created to serve as a central hub for my work and professional information. It's designed to be clean, fast, and fully responsive, and was developed using modern web technologies to ensure a great user experience.
 
 ## Tech Stack
 
 The main technologies, frameworks, and libraries used in this project are:
 
-* [React](https://reactjs.org/)
-* [Vite](https://vitejs.dev/)
-* [Tailwind CSS](https://tailwindcss.com/)
+*   [React](https://reactjs.org/)
+*   [Vite](https://vitejs.dev/)
+*   [Tailwind CSS](https://tailwindcss.com/)
 
 ## Usage
 
@@ -22,34 +22,34 @@ Below are the instructions for you to set up and run the project locally.
 
 You need to have the following software installed to run this project:
 
-* [Node.js](https://nodejs.org/) (v11 or higher)
+*   [Node.js](https://nodejs.org/) (v11 or higher)
 
-### Running the Project
+### Installation and Setup
 
 Follow the steps below:
 
-1. **Clone the repository**
-    ```
+1.  **Clone the repository**
+    ```bash
     git clone https://github.com/luizvilasboas/luizvilasboas.github.io.git
-    ````
-
-2.  **Navigate to the directory**
-
     ```
+
+2.  **Navigate to the project directory**
+    ```bash
     cd luizvilasboas.github.io
     ```
 
-3.  **Install the dependencies**
-
-    ```
+3.  **Install dependencies**
+    ```bash
     npm install
     ```
 
-4.  **Run the application**
+### Workflow
 
-    ```
-    npm run dev
-    ```
+To run the development server, execute the following command:
+```bash
+npm run dev
+```
+The application will be available in your browser.
 
 ## Contributing
 
@@ -57,7 +57,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-Don't forget to give the project a star\! Thanks again\!
+Don't forget to give the project a star! Thanks again!
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
