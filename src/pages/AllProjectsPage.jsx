@@ -68,7 +68,7 @@ const AllProjectsPage = () => {
                 setActiveTag(e.target.value);
                 setCurrentPage(1);
               }}
-              className="w-full md:w-auto h-full p-2 pr-8 font-mono uppercase bg-transparent border-2 border-black dark:border-white text-black dark:text-white focus:outline-none focus:bg-yellow-300 dark:focus:bg-yellow-400 dark:focus:text-black appearance-none"
+              className="w-full md:w-auto h-full p-2 pr-8 font-mono uppercase bg-transparent border-2 border-black dark:border-white text-black dark:text-white focus:outline-none dark:focus:text-black appearance-none"
             >
               {allTags.map((tag) => (
                 <option key={tag} value={tag}>
