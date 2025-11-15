@@ -1,7 +1,7 @@
-import { Outlet } from 'react-router-dom';
-import Navbar from './Navbar';
-import Contact from './Contact';
-import ScrollToAnchor from '../utils/ScrollToAnchor';
+import { Outlet } from "react-router-dom";
+import Navbar from "./Navbar";
+import Contact from "./Contact";
+import ScrollToAnchor from "../utils/ScrollToAnchor";
 
 const RootLayout = () => {
   return (

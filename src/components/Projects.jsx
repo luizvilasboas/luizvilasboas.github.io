@@ -1,13 +1,13 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import ProjectCard from './ProjectCard';
-import { allProjects } from '../data/projects';
-
-const featuredProjects = allProjects.slice(0, 4);
+import { Link } from "react-router-dom";
+import ProjectCard from "./ProjectCard";
+import { featuredProjects } from "../data/projects";
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-white dark:bg-black py-16 px-8 border-b-4 border-black dark:border-yellow-300">
+    <section
+      id="projects"
+      className="bg-white dark:bg-black py-16 px-8 border-b-4 border-black dark:border-yellow-300"
+    >
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold font-mono uppercase text-center mb-12 dark:text-white">
           Featured Work
